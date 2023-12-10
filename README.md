@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Tofiq Movsumov and I'm web developer<br><br>🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning Backend Web Development with Node.js<br>💬 Ask me about Web Development<br>
+I am Tofiq Movsumov and I'm a Front-end developer<br><br>🔭 I’m currently working on my Portfolio<br>🌱 I’m currently learning Backend Web Development with Node.js<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
